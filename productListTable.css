@@ -1,0 +1,15 @@
+.productListTable,td{
+	width : 34%;
+	height : 500px;
+	text-align : center;
+}
+
+.productListTable,tr{
+	margin : 3%;
+	width : 90%;
+}
+
+td a{
+	color : black;
+	text-decoration : none;
+}
